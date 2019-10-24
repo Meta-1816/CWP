@@ -9,9 +9,9 @@ yum -y update
 reboot
 
 `Installer for CentOS 7`
-cd /usr/local/src
-wget http://centos-webpanel.com/cwp-el7-latest
-sh cwp-el7-latest
+cd /usr/local/src 
+wget http://centos-webpanel.com/cwp-el7-latest 
+sh cwp-el7-latest 
 
 `Reboot Server`
 reboot
