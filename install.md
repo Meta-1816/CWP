@@ -1,8 +1,10 @@
 # Install
 `Preparing Server`
 yum -y install wget
+
 `Server Update`
 yum -y update
+
 `Reboot Server`
 reboot
 
